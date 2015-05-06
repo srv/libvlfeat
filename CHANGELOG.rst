@@ -2,8 +2,8 @@
 Changelog for package libvlfeat
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2015-05-06)
+------------------
 * added author tag
 * added vlfeat submodule
 * init commit
