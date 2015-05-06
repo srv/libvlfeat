@@ -4,7 +4,10 @@
   <version>0.0.0</version>
   <description>The libvlfeat package</description>
 
-  <maintainer email="miquel@todo.todo">miquel</maintainer>
+  <maintainer email="miquel.massot@uib.cat">Miquel Massot</maintainer>
+  <maintainer email="francisco.bonin@uib.cat">Francisco Bonin</maintainer>
+
+  <author email="vedaldi@robots.ox.ac.uk">Andrea Vedaldi</author>
 
   <license>BSD</license>
 
